@@ -2,7 +2,7 @@
 
 This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Data Scientist** at the Colombian start-up [@Globalwork](https://globalwork.co/) 🧑🏻‍💻, where I have support tasks related to **Data Engineering** using services like **AWS Glue** and **Apache Spark** framework ⚙️🛢️ and **Data Analysis** on the BI platform **Metabase** 📊🔍. Although my formal education is in **Chemical Engineering** 🧪(currently pursuing my PhD 🎓), I love technology and I consider myself a tech enthusiast.
 
-### Languages & tools**
+### Languages & tools
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"></code>
