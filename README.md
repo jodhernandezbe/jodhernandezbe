@@ -14,5 +14,6 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"></code>
 <code><img height="20" src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 
 ![Jose's github stats](https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&hide_border=true)
