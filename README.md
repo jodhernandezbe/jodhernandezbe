@@ -19,13 +19,3 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&hide_border=true)
-
-
-<div class="row">
-  <div class="col-md-8" markdown="1">
-  Some text.
-  </div>
-  <div class="col-md-4" markdown="1">
-  ![Alt Text](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
-  </div>
-</div>
