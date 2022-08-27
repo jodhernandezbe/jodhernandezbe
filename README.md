@@ -1,5 +1,6 @@
 # Hi there 👋
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="animated" />
 </p>
@@ -21,3 +22,22 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&hide_border=true)
+
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
