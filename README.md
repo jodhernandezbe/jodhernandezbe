@@ -26,7 +26,6 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  ![Alt Text](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  [Alt Text](https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif)
   </div>
 </div>
