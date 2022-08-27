@@ -24,20 +24,13 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&hide_border=true)
 
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
+<div class="row">
+  <div class="col-md-8" markdown="1">
+    <p align="center">
+      <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" alt="animated" />
+    </p>
+  </div>
+  <div class="col-md-4" markdown="1">
+    This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Data Scientist** at the Colombian start-up [@Globalwork](https://globalwork.co/) 🧑🏻‍💻, where I have supported tasks related to **Data Engineering** using services like **AWS Glue** and **Apache Spark** ⚙️🛢️ and **Data Analysis** on the BI platform **Metabase** 📊🔍. Although my formal education is in **Chemical Engineering** 🧪(currently pursuing my PhD 🎓), I love technology and I consider myself a tech enthusiast.
+  </div>
 </div>
