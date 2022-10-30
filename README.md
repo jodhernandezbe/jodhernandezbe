@@ -22,7 +22,12 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 
 ### 📊 Overall Stats
 
-<table width="100%"> 
+<table width="100%">
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=jodhernandezbe&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Jose's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&theme=algolia">
@@ -36,5 +41,5 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/Wandrys-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/jodhernandezbe/count.svg" />
 </p>
