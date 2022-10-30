@@ -16,6 +16,10 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png?20210416091439"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 
+### 📊 Overall Stats
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jodhernandezbe&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
 <table width="100%"> 
   <tr>
     <td width="50%">
