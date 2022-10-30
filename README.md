@@ -24,9 +24,6 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
     <td width="30%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jodhernandezbe&layout=compact&langs_count=8&theme=algolia">
     </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jodhernandezbe&amp;langs_count=8&amp;theme=algolia">
-    </td>
   </tr>
 </table>
 
