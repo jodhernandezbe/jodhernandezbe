@@ -18,10 +18,10 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 
 <table width="100%"> 
   <tr>
-    <td width="40%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=jodhernandezbe&show_icons=true&theme=algolia">
     </td>
-    <td width="30%">
+    <td width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jodhernandezbe&layout=compact&langs_count=8&theme=algolia">
     </td>
   </tr>
