@@ -17,6 +17,7 @@ This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Dat
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 <code><img height="20" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png"></code>
 <code><img height="20" src="https://www.vhv.rs/dpng/d/240-2401624_data-version-control-logo-hd-png-download.png"></code>
+<code><img height="20" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/terra-form-logo-freelogovectors.net_-353x400.png"></code>
 
 ### 🏆 Trophies
 
