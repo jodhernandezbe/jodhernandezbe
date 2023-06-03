@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Jose, a lifelong learner from Colombia 🇨🇴. Currently, I am a **Head of Engineering & Data Scientist** at the Colombian start-up [@Globalwork](https://globalwork.co/) 🧑🏻‍💻, where I have supported tasks related to **Data Engineering** using services like **AWS Glue** and **Apache Spark** ⚙️🛢️ and **Data Analysis** on the BI platform **Metabase** 📊🔍. Although my formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast.
+This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. Although, I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
 
 ### Languages & tools
 
