@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. Although, I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
+This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
 
 ### Languages & tools
 
