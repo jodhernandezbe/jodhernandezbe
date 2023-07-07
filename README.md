@@ -1,3 +1,8 @@
+<div style="background-image: url('https://github.com/jodhernandezbe/jodhernandezbe/blob/8fb2c17466ff316a6331d6cff24b019a3c590294/Untitled%20design.png'); 
+  background-size: cover; height:480px; padding-top:80px;">
+</div
+
+
 # Hi there 👋
 
 This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
