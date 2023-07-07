@@ -1,4 +1,4 @@
-[!image](https://github.com/jodhernandezbe/jodhernandezbe/blob/8fb2c17466ff316a6331d6cff24b019a3c590294/Untitled%20design.png)
+![image](https://github.com/jodhernandezbe/jodhernandezbe/blob/8fb2c17466ff316a6331d6cff24b019a3c590294/Untitled%20design.png)
 
 
 # Hi there 👋
