@@ -5,6 +5,15 @@
 
 This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
 
+Let's connect 🫱‍🫲!
+
+- [LinkedIn](https://www.linkedin.com/in/jodhernandezbe/)
+- [Twitter](https://twitter.com/jodhernandezbe)
+- [Medium](https://medium.com/@jodhernandezbemj)
+- [Google Scholar](https://scholar.google.com/citations?user=VuUfHZ0AAAAJ&hl=en)
+- [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-Betancur?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJfZGlyZWN0In19)
+- [WebSite](https://www.jose-d-hernandez.com/)
+
 ### Languages & tools
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png"></code>
