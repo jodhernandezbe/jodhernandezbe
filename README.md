@@ -3,7 +3,8 @@
 
 # Hi there 👋
 
-This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍.
+This is Jose, a lifelong learner from Colombia 🇨🇴. My formal education is in **Chemical Engineering** 🧪(PhD in ChemEng 🎓), I love technology and I consider myself a tech enthusiast. I take advantage of my knowledge on mathematics and statistics to leverage data for decision-making, combaning this with tech tools 📊🔍. Currently, I'm a postdoctoral researcher at the [U.S. Department of Energy's Argonne National Laboratory](https://www.anl.gov/), working on the development of the next generation of the the [Greenhouse gases, Regulated Emissions, and Energy use in Technologies (GREET) Model](https://greet.es.anl.gov/).
+.
 
 Let's connect 🫱‍🫲!
 
