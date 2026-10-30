@@ -12,7 +12,7 @@ Let's connect 🫱‍🫲!
 - [Medium](https://medium.com/@jodhernandezbemj)
 - [Google Scholar](https://scholar.google.com/citations?user=VuUfHZ0AAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Jose-Hernandez-Betancur?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJfZGlyZWN0In19)
-- [WebSite](https://www.jose-d-hernandez.com/)
+- [WebSite](https://www.josehernandezb.com/)
 
 ### Languages & tools
 
